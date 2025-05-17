@@ -1,0 +1,64 @@
+{
+    "time_steps": {
+        "0": {
+            "temperature": 51.13,
+            "humidity": 42.93,
+            "power_stability": "stable",
+            "cooling_efficiency": 33.69
+        },
+        "1": {
+            "temperature": 58.45,
+            "humidity": 86.9,
+            "power_stability": "stable",
+            "cooling_efficiency": 67.19
+        },
+        "2": {
+            "temperature": 49.94,
+            "humidity": 96.32,
+            "power_stability": "stable",
+            "cooling_efficiency": 50.97
+        },
+        "3": {
+            "temperature": 55.82,
+            "humidity": 70.99,
+            "power_stability": "unstable",
+            "cooling_efficiency": 85.24
+        },
+        "4": {
+            "temperature": 51.17,
+            "humidity": 44.39,
+            "power_stability": "unstable",
+            "cooling_efficiency": 27.17
+        },
+        "5": {
+            "temperature": 56.17,
+            "humidity": 52.56,
+            "power_stability": "stable",
+            "cooling_efficiency": 43.85
+        },
+        "6": {
+            "temperature": 55.23,
+            "humidity": 82.4,
+            "power_stability": "stable",
+            "cooling_efficiency": 29.29
+        },
+        "7": {
+            "temperature": 55.92,
+            "humidity": 70.27,
+            "power_stability": "unstable",
+            "cooling_efficiency": 82.62
+        },
+        "8": {
+            "temperature": 50.22,
+            "humidity": 84.52,
+            "power_stability": "stable",
+            "cooling_efficiency": 29.03
+        },
+        "9": {
+            "temperature": 56.73,
+            "humidity": 80.97,
+            "power_stability": "stable",
+            "cooling_efficiency": 15.86
+        }
+    }
+}

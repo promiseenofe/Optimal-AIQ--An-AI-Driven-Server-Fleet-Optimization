@@ -1,0 +1,64 @@
+{
+    "time_steps": {
+        "0": {
+            "packet_loss": 20.37,
+            "latency": 1468.03,
+            "network_outages": 5,
+            "bandwidth_usage": 96.25
+        },
+        "1": {
+            "packet_loss": 35.8,
+            "latency": 1423.86,
+            "network_outages": 4,
+            "bandwidth_usage": 71.52
+        },
+        "2": {
+            "packet_loss": 22.28,
+            "latency": 1096.3,
+            "network_outages": 2,
+            "bandwidth_usage": 66.61
+        },
+        "3": {
+            "packet_loss": 20.2,
+            "latency": 749.47,
+            "network_outages": 4,
+            "bandwidth_usage": 53.83
+        },
+        "4": {
+            "packet_loss": 25.46,
+            "latency": 901.02,
+            "network_outages": 2,
+            "bandwidth_usage": 93.79
+        },
+        "5": {
+            "packet_loss": 10.21,
+            "latency": 1305.38,
+            "network_outages": 15,
+            "bandwidth_usage": 90.49
+        },
+        "6": {
+            "packet_loss": 7.9,
+            "latency": 1673.24,
+            "network_outages": 20,
+            "bandwidth_usage": 88.19
+        },
+        "7": {
+            "packet_loss": 6.69,
+            "latency": 1083.93,
+            "network_outages": 9,
+            "bandwidth_usage": 65.05
+        },
+        "8": {
+            "packet_loss": 11.71,
+            "latency": 87.2,
+            "network_outages": 1,
+            "bandwidth_usage": 61.95
+        },
+        "9": {
+            "packet_loss": 21.57,
+            "latency": 1266.54,
+            "network_outages": 12,
+            "bandwidth_usage": 63.53
+        }
+    }
+}
