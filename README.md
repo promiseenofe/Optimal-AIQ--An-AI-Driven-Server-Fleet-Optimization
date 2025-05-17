@@ -92,10 +92,7 @@ It is built with production-grade architecture, featuring NLP integration via Op
 - `pip install -r requirements.txt`
 - Docker (optional for full isolation)
 
-### ▶️ Start the Streamlit GUI
 
-```bash
-streamlit run app.py
 
 ## 🚀 Features Walkthrough
 
@@ -104,7 +101,7 @@ Here’s a visual overview of how the AI-Powered DCIM Server Fleet Optimizer wor
 ---
 
 ### 🧭 1. Main Dashboard — Streamlit GUI
-![Main GUI](https://github.com/promiseenofe/Optimal-AIQ--An-AI-Driven-Server-Fleet-Optimization/raw/main/screenshots/generateSS.png)
+![Main GUI](screenshots/generateSS)
 
 
 A clean and intuitive web interface built with **Streamlit**. From here, you can:
