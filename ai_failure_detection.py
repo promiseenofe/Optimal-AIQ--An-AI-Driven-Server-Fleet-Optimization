@@ -2,7 +2,8 @@ import openai
 import json
 import time
 import os
-from openai.error import RateLimitError
+from openai._exceptions import RateLimitError
+
 
 # Use environment variable for safety
 openai.api_key = os.getenv("OPENAI_API_KEY")
