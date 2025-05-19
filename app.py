@@ -102,7 +102,7 @@ elif page == "Historical Data":
     else:
         st.info("No historical data available yet.")
 
-elif page == "Run Scripts":
+elif page == "Optimal-AIQ":
     st.title("⚙️ Script Runner")
     if st.button("1️⃣ Generate Dynamic Data"):
         run_script("generate_dynamic_data.py")
