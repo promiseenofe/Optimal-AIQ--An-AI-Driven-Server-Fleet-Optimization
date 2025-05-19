@@ -5,7 +5,7 @@ import os
 from openai.error import RateLimitError
 
 # Use environment variable for safety
-# Type_Or_Paste_API_Key_Here or environment variable
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 class AIFailureDetection:
     def __init__(self, failure_logs_path, network_logs_path=None, environment_logs_path=None):
